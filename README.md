@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Lyam!
-Software Developer passionate about UX and AI.  
-🎓 CS graduate — Nantes University  
-📚 Preparing for the GitHub Copilot Certification
+👨🏽‍💻 Software Developer focused on user experience & AI  
+🎓 Computer Science graduate from Nantes University, France  
+🤖 Currently preparing for the GitHub Copilot Certification  
+
+💡 I enjoy building intuitive interfaces, experimenting with AI tools, and learning modern web technologies.
+
 
 
 ## 🌐 Socials:
