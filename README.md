@@ -1,7 +1,7 @@
-# 👋🏼 Hi, I'm Lyam!
-👨🏽‍💻 A Software Developer passionate about creating useful and engaging apps for people<br>
-🎓 Studied Computer Science in Nantes University, France<br>
-📚 Currently learning about GitHub Copilot
+# 👋 Hi, I'm Lyam!
+Software Developer passionate about UX and AI.  
+🎓 CS graduate — Nantes University  
+📚 Preparing for the GitHub Copilot Certification
 
 
 ## 🌐 Socials:
