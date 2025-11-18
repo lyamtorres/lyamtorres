@@ -1,5 +1,7 @@
-# 💫 About Me:
-Software Developer passionate about user experience and AI<br>Studied Computer Science in Nantes University, France<br>Currently learning React
+# 👋🏼 Hi, I'm Lyam!
+👨🏽‍💻 A Software Developer passionate about creating useful and engaging apps for people<br>
+🎓 Studied Computer Science in Nantes University, France<br>
+📚 Currently learning about GitHub Copilot
 
 
 ## 🌐 Socials:
