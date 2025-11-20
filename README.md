@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lyam!
-👨🏽‍💻 Software Developer focused on user experience & AI
+👨🏽‍💻 Software Developer focused on user experience & AI<br>
 🤖 Currently preparing for the GitHub Copilot Certification
 
 💡 I enjoy building intuitive interfaces, experimenting with AI tools, and learning modern web technologies.
